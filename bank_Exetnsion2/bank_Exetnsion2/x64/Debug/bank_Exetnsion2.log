@@ -1,0 +1,5 @@
+﻿  bank_Exetnsion2.cpp
+C:\Users\COMPUMARTS\source\repos\bank_Exetnsion2\bank_Exetnsion2\bank_Exetnsion2.cpp(143,23): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\COMPUMARTS\source\repos\bank_Exetnsion2\bank_Exetnsion2\bank_Exetnsion2.cpp(994,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\COMPUMARTS\source\repos\bank_Exetnsion2\bank_Exetnsion2\bank_Exetnsion2.cpp(1185,3): warning C4551: function call missing argument list
+  bank_Exetnsion2.vcxproj -> C:\Users\COMPUMARTS\source\repos\bank_Exetnsion2\x64\Debug\bank_Exetnsion2.exe
